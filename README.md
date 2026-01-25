@@ -19,16 +19,16 @@
       <th>Title</th>
       <th>Author</th>
       <th>Conference</th>
-      <th>PDF</th>
+      <th>link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>이기종 단일 보드 간의 객체 인식 모델 성능 분석</td>
       <td>
-        주환성h<br>
+        주환성<br>
         장영우<br>
-        Young-Kyoon Suh
+        서영균
       </td>
       <td>KCC 2024</td>
       <td><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11861822"></a></td>
