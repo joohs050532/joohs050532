@@ -39,3 +39,51 @@
 </table>
 
 - International
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Conference</th>
+      <th>link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A Hierarchical Topic Modeling Analysis of Twitter Data on COVID-19 Vaccines</td>
+      <td>
+        Harin Seo<br>
+        Hwanseong Joo<br>
+        Young-Kyoon Suh
+      </td>
+      <td>RACS 2024</td>
+      <td>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3649601.3698724">🔗</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Conference</th>
+      <th>link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HARIN: A Novel Metric for Hierarchical Topic Model Assessment</td>
+      <td>
+        Harin Seo<br>
+        Hwanseong Joo<br>
+        Young-Kyoon Suh
+      </td>
+      <td>SAC 2025</td>
+      <td>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3672608.3707837">🔗</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
