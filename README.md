@@ -79,3 +79,29 @@
     </tr>
   </tbody>
 </table>
+
+- International Journal
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Conference</th>
+      <th>link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HARIN++: Unified Evaluation of Hierarchical Topic Models</td>
+      <td>
+        Hwanseong Joo<br>
+        Huisu Kim<br>
+        Young-Kyoon Suh
+      </td>
+      <td>Submitted in Neurocomputing</td>
+      <td>
+      <a href="">🔗</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
