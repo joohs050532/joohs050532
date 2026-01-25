@@ -36,6 +36,21 @@
       </td>
     </tr>
   </tbody>
+    <tbody>
+    <tr>
+      <td>인간 맞춤 요약을 위한 지표 기반 직접 선호도 최적화 방법</td>
+      <td>
+        윤성환<br>
+        Lasse Jantsch Marten<br>
+        주환성<br>
+        서영균<br>
+      </td>
+      <td>KCC 2025</td>
+      <td>
+      <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11861822">🔗</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 - International
