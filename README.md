@@ -24,18 +24,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>FINECITE</b>: A Novel Approach for Fine-Grained Citation Context Analysis</td>
+      <td>이기종 단일 보드 간의 객체 인식 모델 성능 분석</td>
       <td>
-        Lasse Jantsch<br>
-        Dong-Jae Koh<br>
-        Seonghwan Yoon<br>
-        Jisu Lee<br>
-        Anne Lauscher<br>
+        주환성h<br>
+        장영우<br>
         Young-Kyoon Suh
       </td>
-      <td>ACL 2025 Findings</td>
-      <td><a href="FINECite.pdf">PDF</a></td>
+      <td>KCC 2024</td>
+      <td><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11861822"></a></td>
     </tr>
   </tbody>
 </table>
+
 - International
