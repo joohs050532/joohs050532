@@ -62,15 +62,7 @@
       </td>
     </tr>
   </tbody>
-</table>
-<table>
   <thead>
-    <tr>
-      <th>Title</th>
-      <th>Author</th>
-      <th>Conference</th>
-      <th>link</th>
-    </tr>
   </thead>
   <tbody>
     <tr>
