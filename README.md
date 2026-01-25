@@ -13,5 +13,29 @@
 
 #### Publications
 - Domestic
-
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Conference</th>
+      <th>PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>FINECITE</b>: A Novel Approach for Fine-Grained Citation Context Analysis</td>
+      <td>
+        Lasse Jantsch<br>
+        Dong-Jae Koh<br>
+        Seonghwan Yoon<br>
+        Jisu Lee<br>
+        Anne Lauscher<br>
+        Young-Kyoon Suh
+      </td>
+      <td>ACL 2025 Findings</td>
+      <td><a href="FINECite.pdf">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
 - International
