@@ -31,7 +31,9 @@
         서영균
       </td>
       <td>KCC 2024</td>
-      <td><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11861822"></a></td>
+      <td>
+      <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11861822">🔗</a>
+      </td>
     </tr>
   </tbody>
 </table>
