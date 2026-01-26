@@ -123,7 +123,5 @@
 
 - Projects
 
-- Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joohs050532)](https://github.com/joohs050532)
 
 
