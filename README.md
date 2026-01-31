@@ -129,6 +129,9 @@
 
 
 ## BOJ Profile
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=joohs0505)](https://solved.ac/joohs0505)
-
+<div align="center">
+  <a href="https://solved.ac/joohs0505">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=joohs0505"/>
+  </a>
+</div>
 
