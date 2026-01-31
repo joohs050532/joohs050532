@@ -129,7 +129,7 @@
 
 
 ## BOJ Profile
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=joohs0505)](https://solved.ac/joohs0505/)
-
+<p> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joohs0505)](https://solved.ac/joohs0505/)
+</p>
 
 
