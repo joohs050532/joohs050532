@@ -113,7 +113,7 @@
         Huisu Kim<br>
         Young-Kyoon Suh
       </td>
-      <td>Submitted in Neurocomputing</td>
+      <td>Revision</td>
       <td>
       <a href="">🔗</a>
       </td>
@@ -127,6 +127,9 @@
 - 2024 동계 UST 인턴십 (안전성평가연구소) (nrf2 classification, 분자 예측 모델 개발) (2024.01 ~ 2024.02)
 - LG 산학과제 참여연구원 (수면모드에서의 사용자 쾌적성 평가 로직 제공) (2025.04 ~ 2026.02)
 
+
+## BOJ Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joohs0505)](https://solved.ac/joohs0505/)
 
 
 
