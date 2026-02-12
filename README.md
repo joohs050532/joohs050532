@@ -115,6 +115,26 @@
       </td>
       <td>Revision</td>
       <td>
+      <a href=""></a>
+      </td>
+    </tr>
+  </tbody>
+    <tbody>
+    <tr>
+      <td>CZ-HRL: Comfort Zone-Driven Hybrid Reinforcement Learning for Personalized Sleep Control in Large-Scale HVAC Systems</td>
+      <td>
+        Jisu Lee <br>
+        Hwanseong Joo<br>
+        Subin Park<br>
+        Seonghwan Yoon<br>
+        Cheongu Kim <br>
+        Huisu Kim<br>
+        Jaeseong Kim<br>
+        Byeongjin Choi<br>
+        Young-Kyoon Suh
+      </td>
+      <td>Submitted in KDD'26</td>
+      <td>
       <a href="">🔗</a>
       </td>
     </tr>
