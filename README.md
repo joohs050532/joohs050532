@@ -146,10 +146,3 @@
 - LG 산학과제 참여연구원 (수면모드에서의 사용자 쾌적성 평가 로직 제공) (2025.04 ~ 2026.02)
 
 
-## BOJ Profile
-<div align="center">
-  <a href="https://solved.ac/joohs0505">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=joohs0505"/>
-  </a>
-</div>
-
