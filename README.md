@@ -106,7 +106,7 @@
         Byeongjin Choi<br>
         Young-Kyoon Suh
       </td>
-      <td>Submitted in KDD'26</td>
+      <td>Submitted in CIKM'26</td>
       <td>
       <a href="">🔗</a>
       </td>
